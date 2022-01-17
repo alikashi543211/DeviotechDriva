@@ -1,0 +1,211 @@
+
+      .tabs-section ul li.disabled a{
+          cursor: not-allowed;
+      }
+      .tabs-section ul li.disabled a:hover{
+          background-color: #fff !important;
+      }
+      .dtp>.dtp-content>.dtp-date-view>header.dtp-header{
+          background: #EA5455;
+      }
+      .dtp div.dtp-date, .dtp div.dtp-time{
+          background: #E87E7F;
+      }
+      .profile-boxes{
+          box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.15);
+          background-color: #FFFFFF;
+          border-radius: 5px;
+          border: 1px solid;
+          border-color: transparent;
+          margin-right: 1rem;
+          cursor: pointer;
+          transition: all 0.5s ease;
+      }
+      .services{
+          width: 120px;
+          height: 120px;
+          padding-top: 1.5rem;
+      }
+      .customer-facilities{
+          width: 130px;
+          height: 120px;
+          padding-top: 1.5rem;
+      }
+      .payments{
+          width: 130px;
+          height: 120px;
+          padding-top: 1.5rem;
+      }
+      .profile-boxes-check{
+          display: none;
+      }
+      .profile-boxes .inner-profile-boxes{
+      }
+      .profile-boxes img{
+          width: 50px !important;
+      }
+      .profile-boxes:hover{
+          border: 1px solid;
+          border-color: #EA5455;
+          transition: all 0.5s ease;
+      }
+      .form-control-position{
+          top: 5px !important;
+      }
+      div.tagsinput{
+          width: auto !important;
+          height: auto !important;
+      }
+      div.tagsinput input{
+          margin: 0px !important;
+          width: 100% !important;
+      }
+      div.tagsinput span.tag{
+          background: #EA5455 !important;
+          color: #FFFFFF !important;
+          border-color: transparent !important;
+          margin-bottom: 0px !important;
+      }
+      div.tagsinput span.tag a{
+          font-size: 13px;
+          color: #FFFFFF;
+      }
+      .app-content .wizard > .content > .body{
+          padding: 0px !important;
+      }
+      .img-uploader{
+          position: relative;
+      }
+      .add-img{
+          color: #EA5455;
+          font-size: 18px;
+          position: absolute;
+          top: 0;
+          right: 18px;
+          cursor: pointer;
+          z-index: 999;
+      }
+      .tabs-section ul{
+          padding: 0px !important;
+          margin: 0px !important;
+      }
+      .tabs-section ul li{
+          display: inline-block;
+          list-style: none !important;
+          text-align: center;
+      }
+      .tabs-section ul li a{
+          display: block;
+          height: 50px;
+          width: 200px;
+          line-height: 50px;
+          background-color: #fff;
+          box-shadow: 0 3px 10px 0 rgba(8, 8, 8, 0.15);
+          color: #000000;
+          font-weight: 600;
+          transition: all 0.5s ease;
+      }
+      .tabs-section ul li a:hover{
+          background-color: #EA5455;
+          color: #ffffff;
+          transition: all 0.5s ease;
+      }
+      .tabs-section ul li.active a{
+          background-color: #EA5455;
+          color: #ffffff;
+          transition: all 0.5s ease;
+      }
+      .grey-bg
+      {
+        background-color: #727070 !important;
+        color: #FFFFFF !important;
+        padding: 0.9rem 3rem;
+      }
+      .grey-bg:hover
+      {
+        border-color: #727070 !important;
+        color: #FFFFFF !important;
+        box-shadow: 0 8px 25px -8px #727070;
+      }
+      .btn-save
+      {
+        padding: 0.9rem 4rem;
+      }
+      .book_mark_icon
+      {
+        position: absolute;
+        left: 0.5%;
+        font-size: 25px;
+        color: grey;
+      }
+      .book_mark_icon_featured
+      {
+        color: #FFDF00;
+      }
+      .garage_detail_header
+      {
+        position: relative;
+      }
+      .main-menu.menu-light .navigation li.hover>a
+      {
+        padding: 10px 15px 10px 15px !important;
+      }
+      .main-menu.menu-light .navigation>li.active>a
+      {
+        color: #565656;
+        box-shadow: 0 0 10px 1px rgb(255 255 255) !important;
+        background: #ffffff !important;
+      }
+      .parent_bookmark
+      {
+        position:relative;
+      }
+      .bookmark_star
+      {
+        position: absolute;
+        top: 2%;
+        right: 95.2%;
+      }
+      .bookmark_star i
+      {
+        font-size:20px;
+      }
+      .bookmark_img
+      {
+        position: absolute;
+        border: 1px solid lightgrey;
+        border-radius: 100%;
+        padding: 0.4rem;
+        font-size: 1.5rem;
+        
+        cursor: pointer;
+        z-index: 1;
+      }
+
+      .bookmark_img_grey
+      {
+        color: #626262;
+      }
+
+      .bookmark_img_golden
+      {
+        color: #efd143;
+      }
+      .feature_icons
+      {
+        position: absolute;
+        top: 2%;
+        left: 94.7%;
+      }
+      .card-content p{
+          font-size: 16px;
+      }
+      section
+      {
+        width: 100%;
+      }
+      .garage-list-image
+      {
+          width: 100% !important;
+          height: 120px !important;
+      }

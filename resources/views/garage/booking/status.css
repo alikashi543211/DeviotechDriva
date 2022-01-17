@@ -1,0 +1,134 @@
+
+    .status-1{
+        position: absolute;
+        top: 30%;left:;
+        text-align: center;
+    }
+    .status-1 p{
+        margin-bottom: 4px;
+    }
+    .status-1 .inspecting{
+        padding:5px 25px;
+        background-color:#ffa000;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    }
+    .status-img{
+        width: 100%;
+        padding:15px 10px 5px 40px;
+        text-align: center;
+
+    }
+    .vehicle-no {
+    position: absolute;
+    background-color: #f6ff00;
+    top: 3%;
+    right: 0;
+    width: 174px;
+    bottom: 86%;
+    text-align: center;
+    padding: 5px 10px;
+   margin:0;
+    border: none;
+    border-radius: none;
+}
+.descript h1{
+   
+    margin:0;
+    text-transform: uppercase;
+    color:#af131f;
+    font-weight: 700;
+    font-size: 30px;
+}
+.inspect h1{
+    margin:0;
+    text-transform: uppercase;
+    color:#af131f;
+    font-weight: 700;
+    font-size: 30px;
+}
+.status-1 .canc{
+        padding:5px 25px;
+        background-color:#898989;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    }
+
+.status-1 .progres{
+        padding:5px 25px;
+        background-color: #9000ff;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    }
+    
+.desc-text a{
+    padding:3px 15px ;
+}
+.pt15{
+    padding-top: 15px;
+}
+.dura{
+    padding-top: 12px;
+}
+@media only screen and (max-width: 760px) {
+
+
+   
+
+
+    .status-img{
+        width: 100%;
+        padding:55px 10px 5px 40px;
+        text-align: center;
+
+    }
+
+
+  .vehicle-no {
+    bottom: 93%;
+  }
+}
+.desc-images img{
+    width: 150px;
+    height: 150px;
+    border-radius: 19px;
+    padding: 10px;
+
+} .desc-i{
+    color: #fff;
+    padding:10px;
+    margin: 5px;
+
+    border-radius: 90px;
+    font-size: 14px;
+    background-color: #00e32d;
+
+}a .pencil{
+    color: #000;
+}
+.btn-primary1 {
+    border-color: #4839EB !important;
+   background-image: linear-gradient(to right, #af131f , black) !important;
+    color: #FFFFFF;
+}
+.btn-light{
+
+    border-color: !important;
+    background-color: #515151 !important;
+    color: #FFFFFF;
+
+    
+}
+.p15{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.butn-ext{
+    text-align: right;
+}

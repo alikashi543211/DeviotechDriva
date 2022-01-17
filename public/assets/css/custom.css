@@ -1,0 +1,97 @@
+/*Master Style*/
+/*End Of Master Style*/
+#gdpr-cookie-accept
+{
+	background: #ea5455 !important;
+}
+button#gdpr-cookie-advanced
+{
+	background: lightgrey !important;
+	color:black;	
+}
+
+.featured_garages .fa-star
+{
+	font-size:15px !important;
+}
+
+.max-lines
+{
+	width: 230px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.search_btn_col span,
+.search_btn_col .fa-search
+{
+	/*font-size:16px !important;*/
+}
+
+.g_keywords
+{
+	font-size:16px !important;
+}
+
+#front_garage_search_form input
+{
+	font-size:16px !important;
+}
+
+#front_garage_search_form input::-webkit-input-placeholder {
+    font-size: 16px;
+    line-height: 3;
+}
+
+.search_form_div
+{
+	margin-left:-100px !important;
+}
+
+.garage_title
+{
+    padding-right:20px !important;
+}
+.garage_title h3
+{
+    text-transform:capitalize !important;
+}
+.text-star-warning
+{
+    color: #efd143;
+}
+.icon_design
+{
+    background: #f9faff;
+}
+.text_capitalize
+{
+    text-transform: capitalize !important;
+}
+.pac-item > span:last-child {
+    display: inline-block;
+}
+
+.pac-item
+{
+	cursor: pointer;
+}
+
+.fa_circle{
+    cursor: pointer;
+}
+
+.show_box{
+    display: block !important;
+}
+
+.filter-item .nav-item{
+    /* display: none; */
+}
+
+.garage-list-image
+{
+    width: 100%;
+    height: 200px;
+}

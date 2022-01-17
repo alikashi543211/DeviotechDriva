@@ -1,0 +1,178 @@
+.btn-primary {
+    padding: 0.9rem 3rem;
+}
+.pro-img{
+width:100px;
+height:100px;
+border-radius: 50%;
+}
+
+.status-1{
+position: absolute;
+top: 30%;left:;
+text-align: center;
+}
+.fw400{
+font-weight: 400;
+font-size:14px;
+}
+.status-1 p
+{
+margin-bottom: 4px;
+}
+.status-1 .inspecting{
+padding:5px 25px;
+background-color:#ffa000;
+color: #fff;
+border-radius: 5px;
+font-weight: 700;
+
+}
+.status-img{
+width: 100%;
+padding:30px 10px 5px 40px;
+text-align: center;
+}
+.vehicle-no1 {
+position: absolute;
+top: 3%;
+right: 0;
+width: 100px;
+height:23px;
+bottom: 86%;
+padding:0;
+margin:0;
+background-color: #FFD400;
+text-align: center;
+border: 1px solid #000;
+border-radius: 3px;
+}
+.vehicle-no1 span {
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+}
+.descript h1{
+
+margin:0;
+text-transform: uppercase;
+color:#ea5455;
+font-weight: 700;
+font-size: 30px;
+}
+.status-1 .canc{
+padding:5px 25px;
+background-color:#898989;
+color: #fff;
+border-radius: 5px;
+font-weight: 700;
+
+}
+.status-1 .inspecting{
+        padding:5px 25px;
+        background-color:#ffa000;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    }
+.status-1 .progres{
+padding:5px 25px;
+background-color: #9000ff;
+color: #fff;
+border-radius: 5px;
+font-weight: 700;
+
+}
+
+ .status-1 .pend{
+        padding:5px 25px;
+        background-color: #d5dc03;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    } 
+ 
+.status-1 .comp{
+        padding:5px 25px;
+        background-color: #00e407;
+        color: #fff;
+        border-radius: 5px;
+        font-weight: 700;
+
+    }
+
+.desc-text a{
+padding:3px 15px ;
+}
+.pt15{
+padding-top: 15px;
+}
+.dura{
+padding-top: 12px;
+}
+@media only screen and (max-width: 760px) {
+.status-img{
+width: 100%;
+padding:75px 10px 5px 40px;
+text-align: center;
+
+}
+
+
+.vehicle-no {
+bottom: 93%;
+}
+}
+.desc-images img{
+width: 150px;
+height: 150px;
+border-radius: 19px;
+padding: 10px;
+} 
+.desc-i{
+color: #fff;
+padding:9px;
+margin:0 5px;
+vertical-align: top;
+border-radius: 90px;
+font-size: 14px;
+background-color: #00e32d;
+}
+.btn-light{
+
+border-color: !important;
+background-color: #727070 !important;
+color: #FFFFFF;
+
+
+}
+.p15{
+padding-top: 15px;
+padding-bottom: 15px;
+}
+.butn-ext{
+text-align: right;
+}
+ .uploading label{
+            height: 39.188px;
+            border:1px solid #343434;
+            font-size: 14px;
+            line-height: 28px;
+        
+            background-color: #fff;
+
+        }
+        .custom-file-label::after {
+                padding: 0.675rem 0.85rem;
+                height: auto;
+                width:92px;
+                font-size: 14px;
+                background:#343434;
+                color: #fff;
+
+            }
+             .no-hover:hover{
+                color:#fff !important;
